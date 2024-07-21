@@ -32,7 +32,7 @@ header {
     padding: 6px 12px;
     background-color: #1a73e8;
     border: none;
-    color: white;
+    color: white !important;
     border-radius: 4px;
     cursor: pointer;
 }
